@@ -1,0 +1,26 @@
+/* Posición y tamaño del iceberg */
+$iceberg-right: 5%;
+$iceberg-width: 120px;
+$iceberg-height: 180px;
+
+/* Barco: posiciones clave y tamaño */
+$ship-start-x: 30%;   // punto inicial (centro aproximado)
+$ship-collision-x: 58%; // punto donde choca con el iceberg
+$ship-width: 260px;
+$ship-height: 90px;
+
+/* Hundimiento de cada mitad */
+$sink-depth-back: 160px;
+$sink-depth-front: 180px;
+
+/* Duraciones */
+$time-sail: 5s;
+$time-sink: 4s;
+
+/* Colores de mar y ventanas */
+$color-survive: #ffd447; // amarillo sobrevivientes
+$color-dead: #8b5a2b;    // marrón no sobreviven
+
+$sea-bottom: #00111f;
+$sea-mid: #002b4f;
+$sea-top: #02101f;
