@@ -1,0 +1,21 @@
+{
+  "hash": "3cd0e8ca",
+  "configHash": "0a781249",
+  "lockfileHash": "a7b1b566",
+  "browserHash": "05206892",
+  "optimized": {
+    "d3-dsv": {
+      "src": "../../node_modules/d3-dsv/src/index.js",
+      "file": "d3-dsv.js",
+      "fileHash": "d7d676d5",
+      "needsInterop": false
+    },
+    "svelte": {
+      "src": "../../node_modules/svelte/src/index-client.js",
+      "file": "svelte.js",
+      "fileHash": "e44e0aa5",
+      "needsInterop": false
+    }
+  },
+  "chunks": {}
+}
