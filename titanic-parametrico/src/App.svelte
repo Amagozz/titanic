@@ -35,7 +35,7 @@
 </script>
 
 <main class="page">
-  <h1>Titanic – Animación paramétrica</h1>
+  <h1>Titanic - Animación paramétrica</h1>
 
   <!-- PANEL DE CONTROLES -->
   <section class="controls">
@@ -133,7 +133,7 @@
 </main>
 
 <style lang="scss">
-  @import "scss/vars.scss";
+  @use "scss/vars.scss" as *;
   
 .page {
   padding: 1.5rem;
